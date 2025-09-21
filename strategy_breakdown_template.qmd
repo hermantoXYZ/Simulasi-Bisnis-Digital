@@ -1,0 +1,13 @@
+---
+title: "Digital Agency Strategy Tracking Report"
+---
+
+# Strategy Tracking Matrix
+
+## Template Structure
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPOyf_VXaPACdf-a7I2oWBlMbhs0L9Dhj3HvzCex7-A-gsQcB9rkcm2Gqw9NYFvuA4FKCQxrP4-nbi/pubhtml?widget=true&amp;headers=false"  width="100%" height="369"></iframe>
+
+::: callout-warning 
+- Tempalte Strategy Breakdown merupakan template yang digunakan untuk laporan digital marketing Clinet. Template ini dapat digunakan sebagai referensi untuk membuat laporan. Tim Agency dapat membuat report layanan dengan menggunakan tools/template lain. Dengan memperhatikan beberapa key dalam template yang telah disajikan. [Download](https://docs.google.com/spreadsheets/d/1rL-ZcbsvrXBX5GELwBj-GfuicKirXnv7Qe5okIKL9_A/edit?gid=0#gid=0)
+:::
+

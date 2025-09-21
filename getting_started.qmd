@@ -1,0 +1,139 @@
+---
+title: " Simulasi Digital (Digital Marketing)"
+author: "Andi Hermanto"
+date: "2022-08-01"
+
+---
+
+# Simulasi Digital (Digital Marketing)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQF20t33sqAeolbOCrBEyDBLTisSxCgdxhU9LoI-rDFw_hy1pQV4p3wQmwOqMXMVWd1an9hXeYlv8Zv/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="749" allowfullscreen="true"></iframe>
+
+## Apa itu Simulasi Bisnis?
+
+- **Solomon (2022)**  
+  Pembelajaran berbasis simulasi digital memberikan pengalaman imersif yang dekat dengan kondisi bisnis nyata.  
+
+- **Charlesworth (2018)**  
+  Simulasi Bisnis Digital memungkinkan untuk menguji strategi pemasaran digital melalui beberapa skenario.  
+
+- **Anderson & Lawton (2009)**  
+  Business Simulations meningkatkan keterampilan problem solving, kolaborasi tim, dan pengambilan keputusan berbasis data.  
+
+[Referensi](https://drive.google.com/file/d/1miuiijHyscjjCHjMCPJ0cBflR4BqNB3P/view)
+
+## Dimana Posisimu?
+
+- **Bisnis Konvensional**
+  - Transaksi tatap muka (offline)
+  - Lokasi & waktu terbatas (toko fisik)
+  - Strategi marketing ketinggalan zaman
+  - Keterikatan dengan customers terbatas
+
+- **Bisnis Digital**
+  - Transaksi online (website, aplikasi, marketplace)
+  - Tanpa batas ruang & waktu (24/7, global reach)
+  - Promosi lewat digital marketing (SEO, SEM, media sosial)
+  - Hubungan pelanggan interaktif & berbasis data
+
+## Definisi
+
+::: {.callout-note style="background-color:#888"}
+Dikutip di sejumlah buku dan Jurnal.
+:::
+
+> Digital marketing adalah aktivitas pemasaran yang menggunakan media digital untuk mempromosikan produk dan melibatkan konsumen.  
+– **Kotler (2016)**
+
+---
+
+
+
+> Digital marketing merupakan penggunaan teknologi digital untuk mencapai tujuan pemasaran melalui komunikasi yang terintegrasi.  
+– **Chaffey (2012)**
+
+---
+
+> Digital marketing adalah strategi pemasaran menggunakan instrumen digital.  
+– **A. Hermanto (et al.)**
+
+---
+
+## Types of Digital Marketing
+
+- Email marketing
+- Search engine optimization (SEO)
+- Search Engine Marketing (SEM)
+- Display advertising
+- Content marketing
+- Social media marketing
+- Affiliate marketing
+- Influencer marketing
+- Pay-Per-Click (PPC) Advertising
+
+---
+
+## STARTING TING UP?
+
+<iframe src="https://drive.google.com/file/d/1sWdfXYSG3LqSnn2KcHBcUxqrTeX1AhDu/preview" width="100%" height="700"></iframe>
+
+---
+
+## Testing in Digital Marketing
+
+- Pertanyaan utama:
+  1. Apa yang harus saya uji?
+  2. Kapan saya mengujinya?
+
+**Jawaban**: Ujilah sebanyak mungkin, sesering mungkin, dan sedini mungkin.  
+*(Rob Stokes, The Essential Guide to Marketing in a Digital World)*
+
+
+## Ideation – Renungkan!!
+
+Pertanyaan yang harus dijawab:
+- Apa masalah yang ingin Anda pecahkan?
+- Mengapa masalah itu muncul?
+- Apakah itu masalah Anda?
+- Apa yang sudah dilakukan oleh orang lain?
+- Apakah Anda kompeten menjawab pertanyaan tersebut?
+
+---
+
+## Ideation
+
+> Mencari ide seharusnya mudah, tapi ternyata tidak.  
+> Bahkan mengkhayal pun kadang sulit.
+
+---
+
+## Implementasi Ide
+
+> Implementasi sebuah ide itulah yang sulit.  
+> Yang lebih sukses adalah mereka yang bisa mengimplementasikan ide menjadi nyata.  
+> Secret sauce = *cara implementasi*, bukan idenya.
+
+---
+
+## Apakah masalah timing ini menghalangi entrepreneur?
+
+---
+
+## The Expected Output
+
+**Pitching**  
+- Elevator pitch: menjelaskan ide dalam waktu singkat
+
+---
+
+## Know the Audience
+
+- Anda harus tahu siapa yang mendengarkan presentasi
+- Di tahap awal: pitching ide kepada teman / calon co-founder
+- Saat pengembangan: pitching ke developer (requirement produk)
+- Saat mencari investor: harus menjelaskan **potensi pasar**
+
+---
+
+# Terima Kasih {.unnumbered}
+
+Created by [Andi Hermanto](https://andihermanto.id/)

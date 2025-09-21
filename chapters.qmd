@@ -1,0 +1,46 @@
+---
+title: "Ide Berpikir"
+author: "Andi Hermanto"
+format:
+  revealjs:
+    incremental: true  
+    code-block-height: 650px
+    scroll-view: true
+    slide-tone: true
+    progress: false
+    history: true
+    chalkboard: true
+---
+
+## Pengantar
+
+- Berpikir adalah proses mental untuk menghasilkan ide.
+- Ide lahir dari pengalaman, observasi, dan imajinasi.
+
+---
+
+## Jenis Berpikir
+
+- **Kritis**: menganalisis informasi secara mendalam.
+- **Kreatif**: menciptakan solusi baru dan unik.
+- **Strategis**: merencanakan langkah jangka panjang.
+
+---
+
+## Teknik Menghasilkan Ide
+
+1. Brainstorming  
+2. Mind Mapping  
+3. SCAMPER (Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse)
+
+---
+
+## Contoh Mind Map
+
+---
+
+## Penutup
+
+- Ide adalah awal dari inovasi.
+- Berpikir sistematis membantu mengembangkan ide menjadi solusi nyata.
+

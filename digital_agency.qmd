@@ -1,0 +1,67 @@
+---
+title: "Create: Digital Agency"
+author: "Course: Simulation of Digital Business"
+date: "2025-09-21"
+---
+
+# Create: Digital Agency
+
+This page describes the **assignment brief**, **stages**, **deliverables**, and **assessment rubric** for the group project where students build a simulated digital agency.
+
+::: callout-note
+Each group = one agency. Work in teams of 4–6 students.
+:::
+
+## Project Brief
+
+Build a simulated digital agency that offers one or more digital services (e.g., social media management, digital advertising, website design, content creation, or complete branding packages). Your agency should show a coherent brand identity, a simple business model, a sample client engagement, and deliverables produced during the simulation.
+
+## Stages (Milestones)
+
+### Stage 1 — Agency Setup (Week 2)
+- Choose a team name and create a short brand identity.
+- Create a project workspace (Google Drive / Notion / GitHub / Figma/ ClickUp).
+
+::: callout-note
+**Deliverable:** `Company Profile` containing name, tagline, mission, team, and links to workspace.
+:::
+
+### Stage 2 — Business Model (Week 2)
+- Complete a Business Model Canvas (BMC).
+- Define target customer segments, value propositions, and pricing packages.
+
+**Deliverable:** `bmc.pdf` or `bmc.png` + `pricing.md` (service packages: Basic / Premium / Custom).
+
+### Stage 3 — Service Offering & Plan (Week 3)
+- Select 1 pilot service for the simulation and design a 4-week project plan (timeline, milestones, responsibilities).
+- Design at least one sample deliverable (e.g., 3 social media posts, a landing page mockup, or an ad creative).
+
+**Deliverable:** `plan.md` + `deliverable.zip` (images, Figma links, or documents).
+
+### Stage 4 — Client Proposal & Pitch (Week 4)
+- Prepare a proposal for a sample client (1–2 pages) including scope, timeline, price, and expected outcomes.
+- Pitch the proposal in a 7-minute presentation.
+
+**Deliverable:** `proposal.pdf` + presentation slides `pitch.qmd` or `pitch.pdf`.
+
+
+## Recommended Tools
+- Collaboration: Notion / Google Workspace / Trello
+- Design: Figma / Canva
+- Communication: Slack / WhatsApp / Microsoft Teams
+- Project files: GitHub (for tech-heavy deliverables)
+
+## Assessment Rubric
+- Brand & Identity
+- Business Model & Pricing
+- Quality of Deliverables (design, documents)
+- Presentation & Pitch
+- Teamwork
+- Timeliness & File Organization
+
+### Templates Company Profile and Guidelines
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTABtNp5Oe5n85PfUW8aaRnC7anUeNDSyqPlVGGooFiBjy4jCqzG3z_xrVTas8772lpQYvqrX01bnzN/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+::: callout-important
+untuk format template bisa akses di [sini](https://docs.google.com/presentation/d/1cVz-QWg7bY-pP4Ssz38nGUi3FqbtKWgDVfUum5LS2Jo/edit?usp=sharing)
+:::

@@ -1,0 +1,146 @@
+---
+title: "Panduan Mencari Klien UMKM untuk Tim Agency"
+subtitle: "Digital Business Simulation – Client Development"
+author: "Digital Business Simulation Team"
+date: "September 21, 2025"
+format: html
+---
+
+# Latar Belakang
+UMKM merupakan segmen penting dalam ekosistem bisnis digital. Namun, banyak UMKM masih menghadapi tantangan dalam hal pemasaran online, manajemen brand, serta optimalisasi penjualan.  Tim agency diharapkan mampu memberikan solusi praktis, relevan, dan terjangkau sesuai kebutuhan UMKM.  
+```{mermaid}
+flowchart TD
+    A[Ukuran Usaha] --> B1[Usaha Mikro]
+    A --> B2[Usaha Kecil]
+    A --> B3[Usaha Menengah]
+
+    B1 --> C1[Aset: Maksimal Rp. 50 juta]
+    B1 --> D1[Omset: Maksimal Rp. 300 juta/tahun]
+
+    B2 --> C2[Aset: > Rp. 50 juta - Rp. 500 juta]
+    B2 --> D2[Omset: > Rp. 300 juta - Rp. 2,5 miliar/tahun]
+
+    B3 --> C3[Aset: > Rp. 500 juta - Rp. 10 miliar]
+    B3 --> D3[Omset: > Rp. 2,5 miliar - Rp. 50 miliar/tahun]
+```
+
+---
+
+::: callout-warning 
+- Panduan Mencari Klien UMKM untuk Tim Agency | Diharapkan proses Finalisasi branding (website, sosial media, company profile).
+- Layanan utama sudah terdefinisi dengan baik
+- Struktur tim dan pembagian peran jelas
+- Company Profile telah diperbaiki/update
+* [Update data Agancy V.1.2025 (September 18, 2025)](agency_report.qmd)
+:::
+
+# Kriteria Klien UMKM Potensial
+
+
+```{mermaid}
+flowchart TD
+    A[UMKM Skala Lokal/Regional] --> B{Bidang Usaha}
+    B --> B1[F&B]
+    B --> B2[Fashion]
+    B --> B3[Jasa]
+    B --> B4[Retail]
+    B --> B5[Produk Kreatif]
+    B5 --> D[Rekomendasi untuk jadi Case Study Portfolio]
+    A --> C[Sudah berjalan minimal 6 bulan / AKTIF]
+```
+
+## 1. Profil Usaha
+- Usaha kecil/menengah dengan skala lokal maupun regional (UMKM)  
+- Bergerak di bidang **F&B, fashion, jasa, retail, atau produk kreatif**.  
+- Sudah berjalan minimal 6 bulan/AKTIF (agar memiliki pengalaman operasional dasar).  
+- Lengkap dengan Legalitas NIB/Izin Usaha (PENTING!!)
+
+## 2. Kesiapan Digital
+- Sudah memiliki akun media sosial (meski belum optimal).  
+- Belum memiliki website atau masih sangat sederhana/minimal. 
+- Tertarik menggunakan platform digital `(Instagram, TikTok, Marketplace)`.  
+
+::: {.callout-tip}
+- Penting mendapatkan konfirmasi ke `calon Client` terkait Kesiapan Digital
+:::
+
+## 3. Kebutuhan Pemasaran
+- Ingin meningkatkan **brand awareness** di media sosial.  
+- Membutuhkan konten visual (foto/video/graphic design).  
+- Belum memiliki strategi iklan berbayar (Facebook/Instagram Ads, Google Ads).  
+- Ingin menjangkau pasar baru secara lebih efisien.  
+- Tertarik menggunakan platform digital (Instagram, TikTok, Marketplace, Agent Automation).
+
+## 4. Kapasitas Finansial 
+- Bersedia bekerjasama dalam jangka minimal **3 bulan**.  
+
+## 5. Potensi Kolaborasi
+- Produk/layanan yang menarik untuk dijadikan **case study atau portfolio**.  
+- Terbuka dengan ide-ide kreatif dan storytelling.  
+- Mau memberikan testimoni/ulasan sebagai bukti kredibilitas agency.  
+
+---
+
+# Strategi Pendekatan
+
+1. **Identifikasi Target Lokal:** cari UMKM sekitar kota, atau komunitas bisnis.  
+2. **Bangun Relasi:** mulai dengan komunikasi informal, tawarkan (free consultation).  
+3. **Tawarkan Value Agen:** fokus pada *benefit* maksimalkan dengan layanan 
+4. **Bangun Kepercayaan:** dokumentasikan hasil, tunjukkan progress melalui laporan bulanan. _Seperti di [Strategy BreakDown Template](strategy_breakdown_template.html#template-structure)_.
+5. **Pengembangan:** terus meningkatkan layanan dan branding
+6. **Kolaborasi:** `konsultasi`, `konsultasi`, `konsultasi`.
+
+> Permak agancy kalian agar tampil beda, UMKM Akan Berdatangan
+
+---
+
+# Contoh Segmentasi Klien
+| Segmen UMKM | Contoh Usaha | Layanan Agency yang Cocok |
+|-------------|--------------|---------------------------|
+| F&B         | Cafe, bakery, restoran | Konten foto/video, Instagram Ads |
+| Fashion     | Butik, distro, hijab | Branding visual, TikTok content |
+| Retail      | Toko kelontong modern | Google Business, Marketplace integration |
+| Jasa        | Barbershop, laundry, travel | Website sederhana, Social media branding |
+| Produk Kreatif | Kerajinan tangan, souvenir | Storytelling, Marketplace Ads |
+
+---
+
+## Alur Pendekatan Agency ke UMKM
+
+
+
+```{mermaid}
+sequenceDiagram
+  participant Agency
+  participant UMKM
+  participant Market
+
+  Agency->>Agency: Finalisasi branding & layanan
+  Agency->>Market: Identifikasi target UMKM (lokal/komunitas)
+  Market-->>Agency: Daftar UMKM potensial
+
+  Agency->>UMKM: Hubungi & tawarkan konsultasi gratis
+  UMKM-->>Agency: Diskusi kebutuhan pemasaran
+
+  loop Evaluasi Kriteria
+    Agency->>Agency: Cek profil usaha, digital readiness, kapasitas finansial
+  end
+
+  Agency->>UMKM: Tawarkan paket layanan (basic / standard / premium)
+  UMKM-->>Agency: Pilih layanan & setujui kerjasama
+
+  Note right of UMKM: Klien harus terbuka untuk<br/>kolaborasi & evaluasi
+
+  Agency->>UMKM: Implementasi layanan + laporan berkala
+  UMKM-->>Agency: Testimoni / feedback untuk portfolio
+```
+
+
+# Kesimpulan
+Tim agency harus memilih UMKM yang **siap digital, butuh pemasaran, dan terbuka untuk berkolaborasi**. Dengan pendekatan bertahap, agency tidak hanya mendapatkan klien, tapi juga membangun **portfolio dan reputasi profesional** di dunia nyata.  
+
+---
+
+*Disusun untuk mendukung kegiatan praktik Digital Business Simulation 2025.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7ZNpiyehQA?si=Upcu8NHChbt3ZqRa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

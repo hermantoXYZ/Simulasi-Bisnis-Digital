@@ -1,0 +1,215 @@
+---
+title: "Digital Agency Teams Report V.1.2025"
+subtitle: "Simulation of Digital Business Ecosystem"
+author: "Digital Business Simulation"
+date: "September 21, 2025"
+version: "2.0"
+---
+
+# Executive Summary of Digital Agency Teams {.unnumbered}
+
+This report provides a comprehensive overview of five digital agency teams participating in the Digital Business Simulation course for 2025. Each team represents a unique approach to digital marketing and business solutions, showcasing diverse specializations from social media advertising to comprehensive digital transformation services.
+
+**Key Highlights:**
+- Multiple service specializations
+- Established digital presence across web and social platforms
+
+---
+
+# Digital Agency Portfolio
+
+## SocioADS
+*Social Media Advertising Specialists*
+
+### Team Composition
+| Role | Member Name |
+|------|-------------|
+| CEO/Founder | Muhammad Ferdiansyah |
+| Ads Specialist | Muh Rasya Febrian |
+| SEO & Google Business Specialist | Anugrah Rusli |
+| Content Creator | Muhammad Haerul Nasir |
+| Digital Strategist | Muh. Akbar Nursyam |
+
+
+  <iframe src="https://www.canva.com/design/DAGzBXoI4QI/gM2Qp1YLvEmuWexhq88SeA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" width="100%" height="569">
+  </iframe>
+
+
+### Agency Focus
+**Core Services:** Social Ads adalah perusahaan jasa pemasaran digital yang berfokus pada pemasaran berbasis lokasi dan manajemen media sosial. Layanan ini membantu bisnis meningkatkan jangkauan pasar dengan promosi yang tepat sasaran sesuai lokasi pelanggan, sekaligus mengelola media sosial secara profesional mulai dari pembuatan konten, analisis performa, hingga interaksi dengan audiens. Dengan pendekatan ini, Social Ads mendukung UMKM maupun bisnis besar agar lebih dikenal, relevan, dan mampu bersaing di era digital.
+
+### Brand Identity
+- **Website:** Development in progress
+- **Instagram:** [@socioads.id](https://www.instagram.com/socioads.id/)
+- **Company Profile:**[Download](https://www.canva.com/design/DAGzBXoI4QI/Z6eZ7JmJwWWvnwl5aGVS5Q/edit)
+
+### List Client
+
+::: callout-warning
+- Proses penyusunan team tuntas pekan III
+- Social Media branding agency tuntas pekan  III
+:::
+---
+
+## REWA
+*Digital Marketing & Web Solutions*
+
+### Team Composition
+| Role | Member Name |
+|------|-------------|
+| ?? | Alifia Alaida Malik |
+| ?? | Luthfita Darwis |
+| ?? | Muh. Fadhil Aqilah. M |
+| ?? | Thio Rahmat Syah |
+| ?? | Mursalin |
+
+  <iframe
+    src="https://www.canva.com/design/DAGyaZnX9h8/wpdsFGL0yDhaVJqYh_vhhQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" width="100%" height="569">
+  </iframe>
+
+
+### Brand Identity
+- **Website:** [rewaagency.my.id](http://rewaagency.my.id)
+- **Instagram:** [@Rewa.id](https://instagram.com/Rewa.id)
+- **Company Profile:** [Download](https://www.canva.com/design/DAGyaZnX9h8/MKIqB7nGUWGaxVsCmfV9rQ/edit)
+
+### Agency Focus
+**Core Services:** Kami berfokus pada industri F&B, khususnya cafe dan bakery, sehingga memahami dengan baik bagaimana tren pasar, selera konsumen, hingga gaya komunikasi visual yang tepat untuk menarik perhatian target audiens. Dengan pengalaman di bidang ini, kami mampu menciptakan storytelling yang bukan hanya mempromosikan produk, tetapi juga membangun citra brand yang kuat dan berkesan. Hal ini membuat setiap konten yang dihasilkan lebih relevan, autentik, dan mampu menyampaikan rasa serta suasana dari produk yang ditawarkan.
+
+::: callout-warning
+- Proses penyusunan team tuntas pekan II
+- Social Media branding agency tuntas pekan  III
+- Team Role belum tuntas?
+:::
+
+---
+
+## inoVIX
+*Innovation in Digital Experience*
+
+### Team Composition
+| Role | Member Name |
+|------|-------------|
+| CEO | Muh. Rifki |
+| Content Creator | Ashabul Kahfi |
+| Sosial Media Marketing | Halil Bisri |
+| ??? | Adzhandy Alfian |
+
+  <iframe
+    src="https://www.canva.com/design/DAGyMJu_80g/A2FjRNfXblJLGOyl6zDzHA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" width="100%" height="569">
+  </iframe>
+
+
+### Brand Identity
+- **Website:** [inovix.my.id](http://inovix.my.id)
+- **Instagram:** [@inovix](https://www.instagram.com/inovix.id?igsh=MXc2bHBqZ3hzM2c5dw%3D%3D)
+- **Company Profile:** [Download](https://www.canva.com/design/DAGyMJu_80g/4o7yXq1DxOcI0M8W9ZV3xg/edit)
+
+
+### Agency Focus
+
+**Core Services:** InoVIX membantu brand tumbuh di media sosial dengan konten kreatif yang relevan dan storytelling kuat, dipadukan dengan optimasi iklan yang tepat sasaran, efisien, dan profesional. Paket fleksibel sesuai kebutuhan—mulai dari UMKM hingga brand menengah—dengan tim muda yang adaptif dan paham tren TikTok, Instagram, dan platform digital lainnya
+
+::: callout-warning
+- Proses penyusunan team tuntas pekan II
+- Team Role belum tuntas?
+:::
+
+
+## NusantaraX
+*Mentransformasi UMKM lewat otomasi cerdas. *
+
+### Team Composition
+| Role | Member Name |
+|------|-------------|
+| CEO / Business Lead | Muhammad Alif |
+| Creative / UI-UX Designer | Muhammad Syarif |
+| Tech & Product Dev | Muh. Asrul |
+| Marketing & Analyst | Fathir Anugrah |
+
+  <iframe
+    src="https://www.canva.com/design/DAGyTcNcjTY/eRileke28z2OY_bPslV-lg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" width="100%" height="569">
+  </iframe>
+
+### Brand Identity
+- **Website:** [nusantarax.web.id](http://nusantarax.web.id)
+- **Instagram:** [@nusantarax.id](https://instagram.com/nusantarax.id)
+- **Company Profile:**  [Download](https://www.canva.com/design/DAGyTcNcjTY/tm4CcTG9Pkejo-CuogEAjQ/edit)
+
+### Agency Focus
+
+**Core Services:** NusantaraX adalah platform Software as a Service (SaaS) yang dirancang untuk mempermudah digital marketing UMKM melalui automation. Kami memahami bahwa banyak UMKM kesulitan dalam menyiapkan materi promosi karena keterbatasan waktu, biaya, dan skill teknis.
+
+::: callout-warning
+- Proses pengembangan layanan services pekan IV
+:::
+
+---
+
+## EvoBiz
+*Business Evolution Through Digital Transformation*
+
+### Team Composition
+| Role | Member Name |
+|------|-------------|
+| Managing Director | Emma |
+| Business Strategist | Mawar |
+| Client Relations | Chelsi Christin Siola |
+| Operations Lead | Muh. Mulyadi |
+
+
+  <iframe
+    src="https://www.canva.com/design/DAGyZDJzq6A/FnyPr4L8bqKFAWGppf_wug/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" width="100%" height="569">
+  </iframe>
+
+### Brand Identity
+- **Website:** [evobiz.web.id](https://www.evobiz.web.id/)
+- **Instagram:** [@evobiz.id](https://www.instagram.com/evobizzz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D)
+- **Facebook:** [evobiz.id](https://www.facebook.com/profile.php?id=61580469372772&rdid=qfYLbl2EzuUgo2Na&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17Ap7r7WXK%2F#)
+- **Company Profile:** [Download](https://www.canva.com/design/DAGyZDJzq6A/FnyPr4L8bqKFAWGppf_wug/view?embed)
+
+### Agency Focus
+
+**Core Services:** Agensi Kami menghadirkan solusi kreatif sesuai tren terkini dengan layanan purna jual berbeda. Setiap desain dapat diperbarui secara gratis beberapa bulan setelah pemesanan, dan agensi kami juga menyediakan Food Content Clinic berupa konsultasi gratis untuk mengevaluasi performa konten serta mendukung keberlanjutan brand kuliner Anda.”
+
+::: callout-warning
+- Proses penyusunan team tuntas pekan II
+- Team Role belum tuntas?
+:::
+
+
+---
+
+# Comparative Analysis
+
+## Team Readiness Matrix
+
+| Agency | Profile | Website | Social Media | Specialization |
+|--------|---------|---------|--------------|----------------|
+| SocioADS |Complete | Belum Aktif |Active  | - |
+| REWA |Complete |Active |Active | -  |
+| inoVIX |Complete |Active |Active | - |
+| NusantaraX |Complete |Active |Active | -  |
+| EvoBiz |Complete |Active |Active | - |
+
+## Strategic Development Areas
+
+### For All Teams
+- **Client Portfolio Development:** Build case studies and success stories
+- **Competitive Analysis:** Research market positioning
+- **Pricing Strategy:** Develop competitive yet profitable pricing models
+- **Partnership Opportunities:** Explore collaboration between teams
+- **Performance Metrics:** Establish KPIs and success measurements
+
+---
+
+## Learning Outcomes Tracking
+- Digital marketing strategy development
+- Brand positioning and identity creation
+- Project management and team coordination
+- Financial planning and business model validation
+
+---
+*Report compiled by: Digital Business Simulation*  
+*Last updated: September 18, 2025*  
+*Next review: September 23, 2025*
